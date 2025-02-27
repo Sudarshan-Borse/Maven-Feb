@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= " I made the changes looking foor update" %></h2>
+<h2><%= " Looking for changes" %></h2>
 </body>
 </html>
