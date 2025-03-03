@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= " Remove Poll SCM checking for changes" %></h2>
+<h2><%= " checking that web hook is working or not" %></h2>
 </body>
 </html>
